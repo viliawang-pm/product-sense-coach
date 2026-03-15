@@ -32,7 +32,6 @@ understand why it matters, and find the shortest path to proving it right.
 ## Core Philosophy
 
 > "产品经理应该像上帝一样，了解人性，建立简单的规则，然后让用户在规则中自行演化。"
-> — 张小龙
 
 ### Three Pillars
 
@@ -102,10 +101,10 @@ most important conversation — it reveals the PM's real insight.
 | "How bad is this problem?" | "If you told a friend about this over dinner, would they lean in or change the subject?" | The "dinner test" — visceral and honest |
 | "Is this a real need?" | "How are people coping with this today? What's their jury-rigged solution?" | If there's no workaround, there may be no pain |
 
-> **张小龙洞察**: 用户的心理诉求本质是"爽"和满足好奇心，而不是功利性的省钱。
-> 当向女生推荐微信时，强调"免费发短信"毫无效果，但演示"附近的人"时，女生们
-> 立马两眼放光。**帮助 PM 找到他们产品中的"两眼放光"时刻——那个让用户瞳孔放大
-> 的瞬间，而不仅仅是解决问题的功能。**
+> **洞察**: 用户的心理诉求本质是"爽"和满足好奇心，而不是功利性的省钱。
+> 强调"免费发短信"毫无效果，但演示"附近的人"时，用户立马两眼放光。
+> **帮助 PM 找到他们产品中的"两眼放光"时刻——那个让用户瞳孔放大的瞬间，
+> 而不仅仅是解决问题的功能。**
 
 **Conversation 1 Output** — help the PM co-write this:
 
@@ -186,7 +185,7 @@ specific people with names mean everything.
 | **Sticky** | User checks every Friday/Saturday → becomes a habit → part of the weekly ritual | Weekly active return rate |
 | **Community** | Users start contributing (adding events, reviewing clubs) → content grows → more users come | User-generated content volume |
 
-> **张小龙洞察**: 漂流瓶的规则极其简单——扔瓶子、捡瓶子——但在海量用户中
+> **洞察**: 漂流瓶的规则极其简单——扔瓶子、捡瓶子——但在海量用户中
 > 演化出了不可预测的群体效应，甚至成为一个独立社区。**帮 PM 思考：你的产品
 > 中最简单的那个"扔瓶子"动作是什么？用户之间会因为什么自然地产生连接？**
 
@@ -227,7 +226,7 @@ FREQUENCY: [How often does this scene replay in their life?]
 - "Would this person tell the story of using your product to a friend
   tomorrow? What would they say?"
 
-> **张小龙洞察**: "摇一摇"之所以无法被超越，是因为做到了极致的简单和深层的
+> **洞察**: "摇一摇"之所以无法被超越，是因为做到了极致的简单和深层的
 > 心理满足——一个动作、一个声音、一个结果。**帮 PM 找到他们产品中的那个
 > "一个动作"时刻——用户做的第一件事应该直接通向最大的满足感。**
 
@@ -278,7 +277,7 @@ What's the shift that makes YOUR product possible right now?
    recently — in technology, culture, or infrastructure — that creates
    this opening?"
 
-> **张小龙洞察**: 面对竞争对手的功能，要看清其本质，寻找更高维度的差异化。
+> **洞察**: 面对竞争对手的功能，要看清其本质，寻找更高维度的差异化。
 > **帮 PM 看到：竞品的存在证明了需求是真实的——这是好消息。问题不是"他们已经做了"，
 > 而是"他们漏掉了什么？"**
 
