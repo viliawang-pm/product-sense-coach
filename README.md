@@ -134,6 +134,8 @@ Inspired by the product thinking of **Zhang Xiaolong** (creator of WeChat), this
 | **Simplicity as discipline** | Find the "one-action moment" — the single interaction that captures the entire product's value |
 | **Trust the user** | Design simple rules and let behavior emerge. The "screenshot to group chat" moment wasn't designed — it was discovered |
 
+> "产品经理应该像上帝一样，了解人性，建立简单的规则，然后让用户在规则中自行演化。"
+
 ---
 
 ## Quick Start
