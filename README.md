@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  English | <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/viliawang-pm/product-sense-coach/stargazers"><img src="https://img.shields.io/github/stars/viliawang-pm/product-sense-coach?style=social" alt="Stars"></a>
   <a href="https://github.com/viliawang-pm/product-sense-coach/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Agent%20Skills-compatible-green" alt="Agent Skills Compatible"></a>
