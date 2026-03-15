@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/hero.png" alt="Product Sense Coach" width="600">
-</p>
-
 <h1 align="center">产品直觉教练</h1>
 
 <p align="center">
